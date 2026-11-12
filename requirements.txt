@@ -5,3 +5,5 @@ matplotlib
 pulp==3.3.2
 prophet
 pandas
+scikit-learn
+plotly
