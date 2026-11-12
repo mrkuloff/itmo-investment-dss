@@ -1,0 +1,7 @@
+numpy
+scipy
+networkx
+matplotlib
+pulp==3.3.2
+prophet
+pandas
